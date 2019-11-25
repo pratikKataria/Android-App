@@ -11,8 +11,8 @@
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
 Just Do initial release v1.0.1
-  - notification for task does not word
-  - starting name does not work properly
+  - notification for task doesn't work properly
+  - starting name enter dialog not working
 
 ### Tech
 
