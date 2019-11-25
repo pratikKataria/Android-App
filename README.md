@@ -1,5 +1,5 @@
 # Just Do
-![alt text](https://github.com/pratikKataria/Android-App/blob/master/main_onbard.png)
+![alt text](https://github.com/pratikKataria/java-programs/blob/master/Surface%20Pro%203%20%E2%80%93%201%403x.png)
 
 Home           | Weekly             |  Monthly      | About            |  Side Navigation     
 :-------------------------:|:-------------------------:|:-------------------------:| :-------------------------:|:-------------------------:
