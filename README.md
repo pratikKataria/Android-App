@@ -1,6 +1,14 @@
 # Just Do
 ![alt text](https://github.com/pratikKataria/Android-App/blob/master/main_onbard.png)
 
+![alt text](https://github.com/pratikKataria/Android-App/blob/master/Screenshot_2019-11-26-02-28-21-285_com.example.justdo.jpg)
+
+![alt text](https://github.com/pratikKataria/Android-App/blob/master/Screenshot_2019-11-26-02-28-23-695_com.example.justdo.jpg)
+![alt text](https://github.com/pratikKataria/Android-App/blob/master/Screenshot_2019-11-26-02-28-25-657_com.example.justdo.jpg)
+![alt text](https://github.com/pratikKataria/Android-App/blob/master/Screenshot_2019-11-26-02-28-39-173_com.example.justdo.jpg)
+![alt text](https://github.com/pratikKataria/Android-App/blob/master/Screenshot_2019-11-26-02-28-42-390_com.example.justdo.jpg)
+
+
 
 **Just Do** is one of the best Android apps. It neatly organizes all of your task single place.
 
