@@ -3,7 +3,7 @@
 
 Home           | Weekly             |  Monthly      | About            |  Side Navigation     
 :-------------------------:|:-------------------------:|:-------------------------:| :-------------------------:|:-------------------------:
-![alt text](https://github.com/pratikKataria/Android-App/blob/master/Screenshot_2019-11-26-02-28-21-285_com.example.justdo.jpg) | ![alt text](https://github.com/pratikKataria/Android-App/blob/master/Screenshot_2019-11-26-02-28-23-695_com.example.justdo.jpg) |  ![alt text](https://github.com/pratikKataria/Android-App/blob/master/Screenshot_2019-11-26-02-28-25-657_com.example.justdo.jpg) | ![alt text](https://github.com/pratikKataria/Android-App/blob/master/Screenshot_2019-11-26-02-28-39-173_com.example.justdo.jpg)  |  ![alt text](https://github.com/pratikKataria/Android-App/blob/master/Screenshot_2019-11-26-02-28-42-390_com.example.justdo.jpg)
+![alt text](https://drive.google.com/drive/folders/1p-XoY_q0Aj8Zu1zB6ifs2DEkhlJ-jBDt) | ![alt text](https://github.com/pratikKataria/Android-App/blob/master/Screenshot_2019-11-26-02-28-23-695_com.example.justdo.jpg) |  ![alt text](https://github.com/pratikKataria/Android-App/blob/master/Screenshot_2019-11-26-02-28-25-657_com.example.justdo.jpg) | ![alt text](https://github.com/pratikKataria/Android-App/blob/master/Screenshot_2019-11-26-02-28-39-173_com.example.justdo.jpg)  |  ![alt text](https://github.com/pratikKataria/Android-App/blob/master/Screenshot_2019-11-26-02-28-42-390_com.example.justdo.jpg)
 
 
 **Just Do** is one of the best Android apps. It neatly organizes all of your task single place.
